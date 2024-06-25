@@ -102,8 +102,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 📧 Feel free to reach out if you have any questions or suggestions!
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- GitHub: [@Ghulam913-adil]([https://github.com/your-username](https://github.com/Ghulam913-adil))
+- Linked In: [@Ghulam Mujtaba Adil]([https://twitter.com/your-twitter-handle](https://www.linkedin.com/in/ghulam-mujtaba-adil-ab9220169/))
 
 ## 🌟 Acknowledgements
 
@@ -111,25 +111,4 @@ Thanks to all the contributors and the Python community for their support!
 
 ---
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/your-username/python-data-analysis-banner.png" alt="Python Data Analysis">
-</p>
 
-```
-
-### Explanation:
-
-1. **Header**: The header includes the title and some badges for Python version and license.
-2. **Features Section**: Describes the main features of the project with relevant emojis.
-3. **Installation Section**: Instructions on how to install the project.
-4. **Directory Structure**: Overview of the directory structure.
-5. **Notebooks Section**: Links to different Jupyter notebooks with descriptions and Colab badges.
-6. **Scripts Section**: Describes the purpose of different scripts.
-7. **Visualizations Section**: Placeholder for visualization examples.
-8. **API Integration Section**: Mentions API integration capabilities.
-9. **Contributing Section**: Invitation to contribute with a link to the contributing guidelines.
-10. **License Section**: Information about the project’s license.
-11. **Contact Section**: Contact details for further questions or suggestions.
-12. **Acknowledgements Section**: Acknowledges contributions and support from the community.
-
-Feel free to customize the placeholders with your actual content and links!
