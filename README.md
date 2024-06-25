@@ -102,13 +102,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 📧 Feel free to reach out if you have any questions or suggestions!
 
-- GitHub: [@Ghulam913-adil]([https://github.com/your-username](https://github.com/Ghulam913-adil))
-- Linked In: [@Ghulam Mujtaba Adil]([https://twitter.com/your-twitter-handle](https://www.linkedin.com/in/ghulam-mujtaba-adil-ab9220169/))
+- GitHub: [@your-username]([https://github.com/your-username](https://github.com/Ghulam913-adil))
+- Linked In: [@your-linked in-handle]([https://twitter.com/your-twitter-handle](https://www.linkedin.com/in/ghulam-mujtaba-adil-ab9220169/))
 
 ## 🌟 Acknowledgements
 
 Thanks to all the contributors and the Python community for their support!
 
 ---
-
 
