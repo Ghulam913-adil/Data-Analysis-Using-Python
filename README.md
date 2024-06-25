@@ -54,13 +54,13 @@ pip install -r requirements.txt
 
 Explore the initial data and uncover patterns, spot anomalies, and test hypotheses.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/data-analysis-using-python/blob/main/notebooks/EDA.ipynb)
+[![Open in Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/data-analysis-using-python/blob/main/notebooks/EDA.ipynb](https://drive.google.com/file/d/1y8Fl6KdIYX-6V3huPieZo_x2aEetRSxv/view?usp=sharing))
 
 ### 🧠 Machine Learning
 
 Implement various machine learning models to predict outcomes and classify data.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/data-analysis-using-python/blob/main/notebooks/Machine_Learning.ipynb)
+[![Open in Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/data-analysis-using-python/blob/main/notebooks/Machine_Learning.ipynb](https://drive.google.com/file/d/1BMjtsIH3JSsbLcme2HA9rLAFWtGFuPhQ/view?usp=sharing))
 
 ### 📉 Time Series Analysis
 
@@ -72,7 +72,7 @@ Analyze and forecast time-dependent data.
 
 Perform sentiment analysis on textual data to determine the sentiment behind it.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/data-analysis-using-python/blob/main/notebooks/Sentiment_Analysis.ipynb)
+[![Open in Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/data-analysis-using-python/blob/main/notebooks/Sentiment_Analysis.ipynb](https://drive.google.com/file/d/11kuT2Kag_4jt0HeHCd34bs01IU2nZp83/view?usp=sharing))
 
 ## 🛠️ Scripts
 
@@ -98,12 +98,7 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) fo
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📬 Contact
-
 📧 Feel free to reach out if you have any questions or suggestions!
-
-- GitHub: [@your-username]([https://github.com/your-username](https://github.com/Ghulam913-adil))
-- Linked In: [@your-linked in-handle]([https://twitter.com/your-twitter-handle](https://www.linkedin.com/in/ghulam-mujtaba-adil-ab9220169/))
 
 ## 🌟 Acknowledgements
 
